@@ -16,7 +16,7 @@ Upload with Mdisk/Doodstream and short link on Droplink *(BULK POST EDITOR)...
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/shivamrajput0/Shortlinkconverter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/RoyalKrrishna/Shortlinkconverter)
 
 ##### Required Variables
 
